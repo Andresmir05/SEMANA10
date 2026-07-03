@@ -1,0 +1,12 @@
+Backlog — Solución de veeduría comunitaria
+(ordenado de mayor a menor prioridad)
+ 
+1. Como ciudadano quiero registrar una incidencia para dejar evidencia del caso.
+ 
+2. Como coordinador quiero recibir una alerta en Telegram para revisar un nuevo reporte apenas se registre.
+ 
+3. Como miembro del equipo quiero consultar el listado de reportes para hacer seguimiento a los casos abiertos.
+ 
+4. Como ciudadano quiero ver el estado de mi reporte (pendiente, en revisión, cerrado) para saber si ya fue atendido.
+ 
+5. Como coordinador quiero generar un resumen semanal automático de reportes para compartirlo con la comunidad.
